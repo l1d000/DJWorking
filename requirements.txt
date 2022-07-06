@@ -28,7 +28,7 @@ idna==2.6
 ipaddress==1.0.14
 lockfile==0.10.2
 lunch==0.4.0
-lxml==3.4.4
+lxml==4.9.1
 Markdown==2.6.2
 meld==3.14.0
 ndg-httpsclient==0.4.0
